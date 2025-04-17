@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_videogrid"
+version = "0.0.1"
+description = "Create Grid Videos"
+license = {text = "GNU General Public License v3"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/stevenwg/ComfyUI-VideoGrid"
+
+[tool.comfy]
+PublisherId = "stevenwg"
+DisplayName = "ComfyUI-VideoGrid"
+Icon = ""
