@@ -6,7 +6,7 @@ __all__ = [
     "WEB_DIRECTORY",
 ]
 
-__author__ = """comfyui_videogrid"""
+__author__ = """ComfyUI-VideoGrid"""
 __email__ = "you@gmail.com"
 __version__ = "0.0.1"
 

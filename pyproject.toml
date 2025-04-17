@@ -1,7 +1,7 @@
 [project]
-name = "comfyui_videogrid"
-version = "0.0.2"
-description = "Create Grid Videos"
+name = "ComfyUI_VideoGrid"
+version = "0.0.3"
+description = "Add vertical and horizontal video grid support"
 license = {text = "GNU General Public License v3"}
 dependencies = []
 
